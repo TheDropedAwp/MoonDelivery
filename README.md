@@ -8,7 +8,7 @@ Moon Delivery — небольшой симулятор лунной логис�
 
 ## Играть в браузере
 
-Ссылка на WebGL-версию появится здесь после публикации проекта на GitHub Pages.
+https://thedropedawp.github.io/MoonDelivery/
 
 ## Что сделано
 
