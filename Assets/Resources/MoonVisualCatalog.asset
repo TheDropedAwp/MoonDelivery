@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ea0a31cb3e1e3444b2f00bf41f736bc, type: 3}
+  m_Name: MoonVisualCatalog
+  m_EditorClassIdentifier: 
+  mainPanel: {fileID: 2800000, guid: 4ff7b38a21aac8446bdbb9c2893558c0, type: 3}
+  sidePanel: {fileID: 2800000, guid: 0afde9d21857ac44a9a03f2df0c6ed58, type: 3}
+  compactPanel: {fileID: 2800000, guid: b39aac5c06332b44c92e229705ddb20b, type: 3}
+  selectPanel: {fileID: 2800000, guid: 6699403fbcf173f42bc317842f3709d9, type: 3}
+  selectPanelActive: {fileID: 2800000, guid: b41cfe3dfbd7d894db081e5c21b8845e, type: 3}
+  grid: {fileID: 2800000, guid: 1d06109cf1109544a861bec0ef285cda, type: 3}
+  wideButton: {fileID: 2800000, guid: ec5bf5d12f44a324680fa064b24c1f1c, type: 3}
+  squareButton: {fileID: 2800000, guid: 6c0a7ec2bd47757469e578cb37d75778, type: 3}
+  hexButton: {fileID: 2800000, guid: bf4c2c008fc5ea94aa0e01aa44bbc036, type: 3}
+  smallButton: {fileID: 2800000, guid: 0f58d2b486f5cca448fa609f5a251b35, type: 3}
+  titleWide: {fileID: 2800000, guid: fbae6b6289494e64b9f768af34122fc0, type: 3}
+  titleSmall: {fileID: 2800000, guid: e0a547f5b7a5bb54fb8984b6803f38a7, type: 3}
+  sliderTrack: {fileID: 2800000, guid: 75908823fffb1c64cb721cabb870da25, type: 3}
+  sliderHandle: {fileID: 2800000, guid: 1e2c726989ba38a4ea6d347e5af44297, type: 3}
+  homeStationIcon: {fileID: 2800000, guid: cd8febac87ab495409265132050224d3, type: 3}
+  destinationStationIcon: {fileID: 2800000, guid: fb29a2286ca089c458fe32e4c94eab82, type: 3}
+  chargingStationIcon: {fileID: 2800000, guid: b5e513b97b6ff49479dc400b2ae43c5b, type: 3}
+  moonBackground: {fileID: 2800000, guid: ecbada08b455af14bb0fcadc7258d901, type: 3}
+  craters:
+  - {fileID: 2800000, guid: e88c51c97f4e5ac43b30456d307ae3cc, type: 3}
+  - {fileID: 2800000, guid: 3bdeb97e08d19744d9afb34231359c32, type: 3}
+  - {fileID: 2800000, guid: a237aefc4e664f942afbc26cd4d219ea, type: 3}
+  - {fileID: 2800000, guid: 1b9a60ae0c88ae145988a8990c228e3d, type: 3}
+  - {fileID: 2800000, guid: 99df3c8540e34f648b4beea34d70a9ac, type: 3}
+  - {fileID: 2800000, guid: fdd6d76a106f47944950600f13126ffb, type: 3}
+  - {fileID: 2800000, guid: 31a1cc61a8cefe24186bc7915106922e, type: 3}
+  - {fileID: 2800000, guid: 6904adf4c31af1044be1c1024951ceb3, type: 3}
+  - {fileID: 2800000, guid: f46e988b747f61440bebe626cce65355, type: 3}
+  - {fileID: 2800000, guid: 5c66560c21b1be541a5ceb8dd64fdb16, type: 3}
+  mountains:
+  - {fileID: 2800000, guid: 0271f4587755f584c967c9d5bb74c10c, type: 3}
+  - {fileID: 2800000, guid: 2501576232d4f4044b3c4d4d3783bd7c, type: 3}
+  - {fileID: 2800000, guid: c1eb0f4e5d1863141bd2c1046c9e2fea, type: 3}
+  - {fileID: 2800000, guid: cdb1c9fe1082f244a8c73b90e13868a8, type: 3}
+  - {fileID: 2800000, guid: 9d09d18976bc0444780bb28abd59e50e, type: 3}
+  - {fileID: 2800000, guid: 79a225c6a294d2d448cc5815e875695e, type: 3}
+  - {fileID: 2800000, guid: 1034e195a53a80e4ea05fe024f07c39e, type: 3}
+  - {fileID: 2800000, guid: 8f4777aa8ab70f346aa8d286fe32e7ed, type: 3}
+  - {fileID: 2800000, guid: b4011063381777348b849d5f136a7448, type: 3}
+  - {fileID: 2800000, guid: 1d71e553e9b0e7141b177546b22b992b, type: 3}
+  previewStandard: {fileID: 2800000, guid: 3194eb429390bab43bbb2466d63b2a06, type: 3}
+  previewFast: {fileID: 2800000, guid: 156ab31b10a63e740a88b6bbc68e7433, type: 3}
+  previewHeavy: {fileID: 2800000, guid: a8fa0c8bbe7692041b2baabb23bb5b88, type: 3}
+  previewOffroad: {fileID: 2800000, guid: 71e266c22611d4a4d8326909ca689c11, type: 3}
+  previewSolar: {fileID: 2800000, guid: f8f2799909ad1f049b139dd88ec47909, type: 3}
+  previewRescue: {fileID: 2800000, guid: 0ea10ef1d6e6a9445b3dfad20589804b, type: 3}
+  mapStandard: {fileID: 2800000, guid: 21ce36fe44ed3ac43a891c87dd6a7848, type: 3}
+  mapFast: {fileID: 2800000, guid: 7608294be8320db4d9fc85e11b9dd99c, type: 3}
+  mapHeavy: {fileID: 2800000, guid: c1eb0366c2f1c0f458015c638d85831d, type: 3}
+  mapOffroad: {fileID: 2800000, guid: 860cb82057767274e8c0471967ba6738, type: 3}
+  mapSolar: {fileID: 2800000, guid: 380c16e47cacb9e4aa42dc828640b5dd, type: 3}
+  mapRescue: {fileID: 2800000, guid: 968ecd00f3b56c94aab553042f4451e7, type: 3}
+  ambientMusic: {fileID: 8300000, guid: f0543078f4870a3408a6fa0c85dca58b, type: 3}
+  clickSfx: {fileID: 8300000, guid: 2c17ab47d8908a846969bc23f571dced, type: 3}
+  confirmSfx: {fileID: 8300000, guid: f516fd1eb0afba3479b6ee74a5510086, type: 3}
+  notificationSfx: {fileID: 8300000, guid: 8fcdf16201af9a4468f9d4da08570537, type: 3}
+  successSfx: {fileID: 8300000, guid: de7a0316db4717a4db5c9bc4332dd38a, type: 3}
+  errorSfx: {fileID: 8300000, guid: 19f54742569b19b46887d9f113cbcf81, type: 3}
+  breakdownSfx: {fileID: 8300000, guid: c5c173bd9e2a6be48964dd8740dda471, type: 3}
+  rescueSfx: {fileID: 8300000, guid: 6f141a7863b65e34b902e7342ee767f1, type: 3}

@@ -1,0 +1,90 @@
+# Unity generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+.gradle/
+.vsconfig
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Generated metadata and packages
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Builds and distributable archives
+*.apk
+*.aab
+*.unitypackage
+
+# Unused files from the source sound-effects pack
+/Assets/SFX/**
+!/Assets/SFX/Click Combos.meta
+!/Assets/SFX/Click Combos/
+!/Assets/SFX/Click Combos/Click_Combo_3.wav
+!/Assets/SFX/Click Combos/Click_Combo_3.wav.meta
+!/Assets/SFX/Clicks.meta
+!/Assets/SFX/Clicks/
+!/Assets/SFX/Clicks/Click.wav
+!/Assets/SFX/Clicks/Click.wav.meta
+!/Assets/SFX/FX Sounds.meta
+!/Assets/SFX/FX Sounds/
+!/Assets/SFX/FX Sounds/Air_FX.wav
+!/Assets/SFX/FX Sounds/Air_FX.wav.meta
+!/Assets/SFX/Glitches.meta
+!/Assets/SFX/Glitches/
+!/Assets/SFX/Glitches/Glitch_3.wav
+!/Assets/SFX/Glitches/Glitch_3.wav.meta
+!/Assets/SFX/Impacts.meta
+!/Assets/SFX/Impacts/
+!/Assets/SFX/Impacts/Impact_1_Low.wav
+!/Assets/SFX/Impacts/Impact_1_Low.wav.meta
+!/Assets/SFX/Rings.meta
+!/Assets/SFX/Rings/
+!/Assets/SFX/Rings/Ring_Pitched_Up.wav
+!/Assets/SFX/Rings/Ring_Pitched_Up.wav.meta
+!/Assets/SFX/Tone1.meta
+!/Assets/SFX/Tone1/
+!/Assets/SFX/Tone1/Basic Tones.meta
+!/Assets/SFX/Tone1/Basic Tones/
+!/Assets/SFX/Tone1/Basic Tones/Tone1C_Double.wav
+!/Assets/SFX/Tone1/Basic Tones/Tone1C_Double.wav.meta
+
+# Unity editor scene template not used by the game
+/Assets/Settings/Lit2DSceneTemplate.scenetemplate
+/Assets/Settings/Lit2DSceneTemplate.scenetemplate.meta
+/Assets/Settings/Scenes.meta
+/Assets/Settings/Scenes/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Addressables generated content
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
